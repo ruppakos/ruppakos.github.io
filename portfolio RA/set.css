@@ -1,0 +1,46 @@
+body{
+	margin:0;
+	padding:0;
+	background-color:navajowhite;
+}
+
+
+
+
+#masthead{
+	min-width:600px;
+}
+
+#logo{
+	float:left;
+	width:200px;
+}
+
+#header{
+	margin-left:200px;
+	
+	text-align:center;
+	font-family:"Microsoft Sans Serif";
+	background-color:peru;
+}
+
+#container{
+	clear:both;
+	min-width:600px;
+}
+
+#left_col{
+	float:left;
+	width;200px;
+}
+
+#page_content{
+	margin-left:200px;
+	font-family:"Microsoft Sans Serif";
+	background-color:antiquewhite;
+	text-align-last:center;
+}
+
+#footer{
+	clear:both;
+}
